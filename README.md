@@ -1,5 +1,5 @@
 # AvayaPhoneBook
-Avaya Phonebook translator for 3rd party party clients (HTTP)
+Avaya Phonebook translator for 3rd party clients (HTTP)
 
 Takes the user list on Avaya and translates them for 3rd party devices.
 
